@@ -1,0 +1,26 @@
+itype:
+  type: str
+  value: t2.medium
+
+ami_id-dev:
+  type: str
+  value: ami-0a0e5d9c7acc336f1
+
+sgroup:
+  type: list
+  value:
+    - sg-04ac7dc75e1f54b3a
+
+
+kname:
+  type: str
+  value: jenkins_key
+
+
+snet:
+  type: str
+  value: subnet-01836ae2845801323
+
+username:
+  type: str
+  value: screenplay
