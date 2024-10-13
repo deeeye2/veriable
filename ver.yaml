@@ -1,4 +1,7 @@
-instance_type: t2.medium
+instance_type:
+  type: str
+  value: t2.small
+
 
 ami_id-dev:
   type: str
