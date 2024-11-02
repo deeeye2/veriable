@@ -1,4 +1,4 @@
-instance_type:
+itype:
   type: str
   value: t2.small
 
