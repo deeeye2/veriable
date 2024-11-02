@@ -15,7 +15,7 @@ sgroup:
 
 kname:
   type: str
-  value: jenkins_key
+  value: test-key
 
 
 snet:
