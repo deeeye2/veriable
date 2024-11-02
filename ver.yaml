@@ -1,6 +1,6 @@
 itype:
   type: str
-  value: t2.small
+  value: t2.large
 
 
 ami_id-dev:
